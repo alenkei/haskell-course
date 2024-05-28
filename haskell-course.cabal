@@ -39,7 +39,7 @@ extra-doc-files: CHANGELOG.md
 common warnings
     ghc-options: -Wall
 
-executable helloHaskel
+executable haskel-course
     -- Import common warning flags.
     import:           warnings
 
@@ -56,7 +56,7 @@ executable helloHaskel
     build-depends:    base ^>=4.18.2.0
 
     -- Directories containing source files.
-    hs-source-dirs:   app
+    hs-source-dirs:   app Homework
 
     -- Base language which the package is written in.
     default-language: Haskell2010
