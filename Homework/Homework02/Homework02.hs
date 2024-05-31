@@ -14,7 +14,8 @@ f3 :: Bool -> Bool -> [Bool]
 f3 x y = [x == True] ++ [y]
 
 
-f4 :: Eq a => [a] -> [a] -> [a] -> Bool
+-- Any lists: f4 :: Eq a => [a] -> [a] -> [a] -> Bool
+f4 :: String -> String -> String -> Bool
 f4 x y z = x == (y ++ z)
 
 
