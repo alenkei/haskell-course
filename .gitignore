@@ -27,6 +27,8 @@ cabal.project.local~
 .ipynb_checkpoints
 lab/.ipynb_checkpoints
 
+* IntelliJ
+.idea/workspace.xml
 
 # Custom
 scripts
