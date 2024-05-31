@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d30b3ae7-1661-4d21-a201-d658073db21c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons/01-Introduction-to-haskell.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/01-Introduction-to-haskell.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/Homework02/Homework02.hs" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework02/Homework02.hs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
