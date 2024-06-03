@@ -21,6 +21,7 @@ f4 x y z = x == (y ++ z)
 
 -- Question 2
 -- Why should we define type signatures of functions? How can they help you? How can they help others?
+--
 --   They act as documentation
 --   They act as assertions that the compiler checks: help you spot mistakes
 --   You can use type annotations to give a function a narrower type than Haskell infers
@@ -28,14 +29,19 @@ f4 x y z = x == (y ++ z)
 -- Question 3
 -- Why should you define type signatures for variables? How can they help you?
 --
+--   In Haskell we ussually declare variables inside functions. We mostly do no use type signatures for them. But in the
+--   begining when you are getting errors it is helpful to add the signatures to all of your variables because the error
+--   from the compiler can become more understandable if you do this.
 
 -- Question 4
 -- Are there any functions in Haskell that let you transform one type to the other? Try googling for the answer.
+--
 --   Yes, any function of type "f :: a -> b" performs a type conversion. See also fromInteger
 
 -- Question 5
 -- Can you also define in Haskell list of lists? Did we show any example of that? How would you access the inner
 -- most elements?
+--
 --   Yes, you can
 --   No
 --   I would write a function that takes a list of Integers and the list of lists and returns the element corresponding

@@ -7,6 +7,9 @@
     <list default="true" id="d30b3ae7-1661-4d21-a201-d658073db21c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework/Homework02/Homework02.hs" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework02/Homework02.hs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/Homework03/Homework03.hs" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework03/Homework03.hs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/02-Functions-Data-Types-and-Signatures.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/02-Functions-Data-Types-and-Signatures.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/03-Conditions-and-helper-constructions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/03-Conditions-and-helper-constructions.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +107,8 @@
       <workItem from="1716988984937" duration="691000" />
       <workItem from="1717052161324" duration="8898000" />
       <workItem from="1717166880484" duration="404000" />
-      <workItem from="1717167297370" duration="542000" />
+      <workItem from="1717167297370" duration="4495000" />
+      <workItem from="1717406662334" duration="3998000" />
     </task>
     <task id="LOCAL-00001" summary="feature: Rename executable">
       <option name="closed" value="true" />
@@ -138,7 +142,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717167034887</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update Homework02">
+      <option name="closed" value="true" />
+      <created>1717167871009</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717167871009</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ignore .idea/workspace.xml;">
+      <option name="closed" value="true" />
+      <created>1717167980002</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717167980002</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +168,9 @@
     <MESSAGE value="feature: Rename executable" />
     <MESSAGE value="feature: Cleanup on executable" />
     <MESSAGE value="Add Homework02 solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Homework02 solution" />
+    <MESSAGE value="Update Homework02" />
+    <MESSAGE value="Ignore .idea/workspace.xml;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ignore .idea/workspace.xml;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
