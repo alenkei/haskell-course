@@ -85,8 +85,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
       </set>
     </attachedChunks>
   </component>
@@ -107,6 +107,12 @@
       <workItem from="1717166880484" duration="404000" />
       <workItem from="1717167297370" duration="4495000" />
       <workItem from="1717406662334" duration="18845000" />
+      <workItem from="1717747613841" duration="4926000" />
+      <workItem from="1717928544350" duration="16000" />
+      <workItem from="1717949737177" duration="613000" />
+      <workItem from="1718133635722" duration="82000" />
+      <workItem from="1718134811623" duration="41000" />
+      <workItem from="1718286976154" duration="780000" />
     </task>
     <task id="LOCAL-00001" summary="feature: Rename executable">
       <option name="closed" value="true" />

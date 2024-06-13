@@ -27,7 +27,12 @@ mc' c h m
 -- Question 3
 -- Write a function that showcases the advantages of using let expressions to split a big expression into smaller ones.
 -- Then, share it with other students in Canvas.
-
+cV :: Double -> Double -> Double -> String100
+cV l b h = let volume = l * b * h
+               cm3 = volume
+               dm3 = volume / 1000
+               m3 = volume / 1000000
+             in if volume < 1000 then "cm3: " ++ show cm3 else if volume < 1000000 then "dm3: " ++ show dm3 else "m3: " ++ show m3
 
 -- Question 4
 -- Write a function that takes in two numbers and returns their quotient such that it is not greater than 1.
@@ -43,3 +48,5 @@ lq a b
 -- Write a function that takes in two numbers and calculates the sum of square roots for the product and quotient
 -- of those numbers. Write the function such that you use a where block inside a let expression and a
 -- let expression inside a where block. 
+sspq :: Double -> Double -> Double
+sspq a b = let sp = sa *
