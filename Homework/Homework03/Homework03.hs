@@ -40,9 +40,9 @@ cV l b h = let volume = l * b * h
 -- possible. To implement this function using both guards and if-then-else statements.
 lq :: Double -> Double -> String
 lq a b
-  | a == 0 && b > a = "Cannot divide by zero"
+  | a == 0 && a < b = "Cannot divide by zero"
   | b == 0 && a > b = "Cannot divide by zero"
-  | otherwise = if a < b then show (a/b) else show (b/a)
+  | otherwise = if a < b then show (a/b) else show (b/a)d
 
 -- Question 5
 -- Write a function that takes in two numbers and calculates the sum of square roots for the product and quotient
